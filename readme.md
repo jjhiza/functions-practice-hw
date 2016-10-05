@@ -1,5 +1,5 @@
 ---
-title: Functions Weekend Homework
+title: Functions Practice
 type: Homework
 duration: "1:00"
 creator:
@@ -7,7 +7,7 @@ creator:
     city: NYC
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Title of the Homework
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Functions Practice Homework
 
 > ***Note:*** _You can help each other, but everyone must submit their own code_
 
@@ -21,7 +21,7 @@ creator:
   - http://codingbat.com/prob/p172021
 - Test your code on the website
   - When you click "Go" it automatically runs a set of test cases and lets you know which passed and which failed
-  - If you register (free) and log in, CodingBat will save your progress
+  - If you register (optional and free) and log in, CodingBat will save your progress
 - Fork & clone this repo, create an IntelliJ project, and paste your completed code into the project
 - Finally, push your code and submit a pull request; put your name in the title of the pull request
 
